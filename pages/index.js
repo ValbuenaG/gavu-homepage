@@ -53,7 +53,7 @@ const Page = () => {
           About me
         </Heading>
         <Paragraph>
-        My name is Gustavo but everyone calls me Gavu. I&apos;m a Software Engineer with +6 years of experience working with Startups, NGOs, and governments. 
+        My name is Gustavo but everyone calls me Gavu. I&apos;m a Software Engineer with +6 years of experience working with Startups, NGOs, and Governments. 
         I&apos;m really passionate about usability, UX, performance, and shipping fast but useful features to the users. 
         Since the beginning of my career, I have been working closely with clients and the product team and be responsible for the research, estimation, and management of several projects.
         I also enjoy sound design and create art with code.
@@ -105,7 +105,7 @@ const Page = () => {
           <Link href="https://open.spotify.com/artist/24bDzC2WU7oRMTv9xKmBiU?si=ulKLTUiWRP6sb8OE1mvsrA" target="_blank">
             Music
           </Link>
-          , Podcasts, Philosophy and Nature
+          , Podcasts, Philosophy, Yoga, Meditation and Nature
         </Paragraph>
       </Section>
 

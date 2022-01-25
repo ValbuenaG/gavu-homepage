@@ -19,7 +19,7 @@ const Page = () => {
   return (
     <Container>
       <Box borderRadius="lg" bg={useColorModeValue('whiteAlpha.500', 'whiteAlpha.200')} mb={6} p={3} align="center">
-        Hello, I&apos;m a Sofware engineer based in Buenos Aires
+        Hello, I&apos;m a Softsware engineer based in Buenos Aires
       </Box>
 
       <Box display={{md: 'flex'}} >
@@ -53,7 +53,7 @@ const Page = () => {
           About me
         </Heading>
         <Paragraph>
-        My name is Gustavo but everyone call me Gavu. I&apos;m sSoftware Engineer with +6 years of experience working with Startups, NGOs, and governments. 
+        My name is Gustavo but everyone call me Gavu. I&apos;m a Software Engineer with +6 years of experience working with Startups, NGOs, and governments. 
         I&apos;m really passionate about usability, UX, performance, and shipping fast but useful features to the users. 
         Since the beginning of my career, I have been working closely with clients and the product team and be responsible for the research, estimation, and management of several projects.
         I also enjoy sound design and create art with code.

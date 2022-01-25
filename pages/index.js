@@ -19,7 +19,7 @@ const Page = () => {
   return (
     <Container>
       <Box borderRadius="lg" bg={useColorModeValue('whiteAlpha.500', 'whiteAlpha.200')} mb={6} p={3} align="center">
-        Hello, I&apos;m a Softsware engineer based in Buenos Aires
+        Hello, I&apos;m a Software engineer based in Buenos Aires
       </Box>
 
       <Box display={{md: 'flex'}} >

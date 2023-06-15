@@ -94,6 +94,18 @@ const Page = () => {
             Palabra
           </Link>
         </BioSection>
+        <BioSection>
+          <BioYear>2022</BioYear>
+          Sr Software Engineer at {' '} <Link href="https://logixboard.com/" target="_blank">
+            Logixboard
+          </Link>
+        </BioSection>
+        <BioSection>
+          <BioYear>2023</BioYear>
+          Sr Software Engineer at {' '} <Link href="https://wearehorizontal.org/" target="_blank">
+            Horizontal
+          </Link>
+        </BioSection>
       </Section>
 
       <Section delay={0.3}>
